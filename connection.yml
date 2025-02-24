@@ -1,5 +1,5 @@
 name: ai-service-connection
 type: azure_ai_services
 endpoint: "https://azure-llm-ins.openai.azure.com/"
-api_key: "7VbDrB9IZGR35Wn7B8z9NoZBLHYApW1cvY0Njh3lPETyXZp2LhzxJQQJ99BBACYeBjFXJ3w3AAAAACOGHQBZ"
+api_key: ""
 ai_services_resource_id: ""
